@@ -1,0 +1,14 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "TEAMID.com.dpdev.locu",
+                "paths": [
+                    "/confirm-registration/*",
+                    "/reset-password/*"
+                ]
+            }
+        ]
+    }
+}

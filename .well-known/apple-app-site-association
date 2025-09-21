@@ -3,7 +3,7 @@
         "apps": [],
         "details": [
             {
-                "appID": "5DV6789T88.com.dpdev.locu",
+                "appID": "45F72PTL46.com.dpdev.locu",
                 "paths": [
                     "/confirm-registration/*",
                     "/reset-password/*"

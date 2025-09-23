@@ -4,11 +4,9 @@
         "details": [
             {
                 "appID": "45F72PTL46.com.dpdev.locu",
-                "paths": [
-                    "/confirm-registration/*",
-                    "/reset-password/*"
-                ]
+                "paths": ["*"]
             }
         ]
     }
+
 }
